@@ -1,4 +1,4 @@
-namespace poser_bad_il;
+namespace poser_os_shim;
 
 public class UnitTest1
 {
